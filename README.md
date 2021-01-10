@@ -1,5 +1,4 @@
-# HosteLite
-## One Place for all your tedious Hostel Related Tasks
+# HosteLite - One Place for all your tedious Tasks
 
 Team name: HackOverflow
 
